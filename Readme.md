@@ -1,7 +1,4 @@
 # [LAB3] Godot on Cardano – Step-by-Step Game Dev Guide
-
-A structured 6-month educational project providing a complete step-by-step guide for learning Godot game development integrated with Cardano blockchain.  
-All course materials, source code, videos, and workshop content will be publicly released.
 ---
 
 ## Table of Contents
@@ -33,4 +30,5 @@ The program includes:
 - **GitHub:** updating...
 - **YouTube:** updating...  
 - **Discord:** updating...
+- **LAB3:** [lab3.io.vn](https://lab3.io.vn)
 ---
